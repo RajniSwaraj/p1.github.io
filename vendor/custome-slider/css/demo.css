@@ -1,0 +1,15 @@
+.slider {
+    width: 100%;
+    height: auto;
+    margin: 50px auto;
+    overflow: hidden;
+}
+.slider ul.slider-main li {
+    width: 100% !important;
+}
+.slider {
+    width: 100% !important;
+    height: 550px;
+    margin: 50px auto;
+    overflow: hidden;
+}
